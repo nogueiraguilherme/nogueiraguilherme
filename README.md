@@ -1,7 +1,7 @@
 ## Olá, sou Guilherme Nogueira 👋
 
 
-Biomédico de formação, analista de dados por vocação e estrategista de modelos operacionais por "diversão".
+Biomédico de formação, analista de dados por vocação e estrategista de modelos operacionais por "diversificação".
 
 
 - 👨🏼‍⚕️ **Biomédico** especialista em diagnóstico por imagem na **imageUP**
