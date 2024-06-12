@@ -6,7 +6,7 @@ Biomedicina, Analises de Dados e Mercado Financeiro &nbsp;&nbsp;&nbsp;&nbsp; *Bi
 - 👨🏼‍⚕️ Biomédico especialista em diagnóstico por imagem na imageUP  &nbsp;&nbsp;&nbsp;&nbsp;*Biomedic radiological imaging specialist at imageUP*
 - 👨🏼‍💻 Melhorando métricas com uso de Python no meu dia a dia  &nbsp;&nbsp;&nbsp;&nbsp; *Improving Metrics with Python Day-by-day*
 - 🍖 Apaixonado por cozinha, churrasco e charcutaria  &nbsp;&nbsp;&nbsp;&nbsp; *Passionate about cooking, barbecue and charcuterie*
-- 🔎 Atualmente focado em:  &nbsp;&nbsp;&nbsp;&nbsp; *Currently focused on:*
+- 🔎 Atualmente focado em:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Currently focused on:*
   - Análise e manipulação de dados financeiros;    &nbsp;&nbsp;&nbsp;&nbsp; *Analysis and Manipulation of Stock Market Data;*
   - Processamento de imagens radiológicas com Python.    &nbsp;&nbsp;&nbsp;&nbsp; *Medical Image Processing with Python.*
 
