@@ -1,15 +1,15 @@
 ## Olá, sou Guilherme Nogueira 👋
 
 
-Biomédico de formação, analista de dados por vocação e estrategista de modelos operacionais por "diversificação".
+Biomedicina, Analises de Dados e Mercado Financeiro &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Biomedicine, Data Analysis and Stock Market
 
 
-- 👨🏼‍⚕️ **Biomédico** especialista em diagnóstico por imagem na **imageUP**
-- 👨🏼‍💻 Melhorando métricas com uso de Python no meu dia a dia
-- 🍖 Apaixonado por cozinha, churrasco e charcutaria
-- 🔎 Atualmente focado em:
-  - Análise e manipulação de dados financeiros;
-  - Processamento de imagens radiológicas com Python.
+- 👨🏼‍⚕️ **Biomédico** especialista em diagnóstico por imagem na **imageUP** &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; **Biomedic** radiological imaging specialist at **imageUP**
+- 👨🏼‍💻 Melhorando métricas com uso de Python no meu dia a dia &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Improving Metrics with Python Day-by-day
+- 🍖 Apaixonado por cozinha, churrasco e charcutaria &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Passionate about cooking, barbecue and charcuterie
+- 🔎 Atualmente focado em: &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Currently focused on:
+  - Análise e manipulação de dados financeiros; &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Analysis and Manipulation of Stock Market Data;
+  - Processamento de imagens radiológicas com Python. &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Medical Image Processing with Python.
 
 
 <div display='inline'>
@@ -19,7 +19,7 @@ Biomédico de formação, analista de dados por vocação e estrategista de mode
 </div>
 
 
-#### Outras redes:
+#### Networks:
 
 <a href="https://www.linkedin.com/in/guilherme-nogueira-4609bb160/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
